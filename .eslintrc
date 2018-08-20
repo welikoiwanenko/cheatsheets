@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "arrow-parens": ["error", "as-needed"],
+    "key-spacing": [
+      "error",
+      {
+        "align": "colon"
+      }
+    ]
+  }
+}
