@@ -22,7 +22,7 @@
     "koa-convert": "^1.2.0",
     "koa-generic-session": "^2.0.1",
     "koa-generic-session-mongo": "^0.4.0",
-    "koa-passport": "^4.1.0",
+    "koa-passport": "^6.0.0",
     "koa-router": "^7.4.0",
     "mongoose": "^5.2.9",
     "passport-facebook": "^2.1.1"
